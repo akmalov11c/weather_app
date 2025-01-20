@@ -9,7 +9,6 @@ A modern and stylish weather application that allows users to check the current 
 - 💨 **Wind Speed & Humidity** – Provides additional weather details.  
 - ☁️ **Dynamic Icons** – Icons change based on weather conditions (e.g., sunny, cloudy, rainy).  
 - ❌ **Error Handling** – Displays an error message if the city name is invalid.  
-- 📱 **Responsive Design** – Fully optimized for both desktop and mobile screens.  
 
 ## 🖥️ Live Demo  
 
