@@ -63,3 +63,19 @@ Get your free API key from OpenWeather.
 
 ### Full view  
 ![Full view](screenshots/full-view.png)
+
+## 🚧 Future Improvements
+ - 🌍 Auto-detection of user location.
+ - 🌙 Dark mode feature.
+ - 📅 7-day weather forecast.
+ - 🗺️ Interactive map view for weather data.
+   
+## 🧑‍💻 Contributing
+
+Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
+
+## 🏷️ License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+🌟 Enjoy using the Weather App and stay updated with the weather! 🌟
