@@ -28,10 +28,25 @@ weather-app/
 
 ## ⚙️ Installation  
 
-1. Clone the repository:  
+1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/weather-app.git
+   
 2. Navigate to the project directory:
+   
    ```bash
    cd weather-app
-4. Open index.html in your preferred browser.
+   
+3. Open index.html in your preferred browser.
+   
+## 🔑 API Key Setup
+
+To fetch weather data, you'll need to replace "YOUR API KEY" in script.js with your own OpenWeather API key.
+
+   ```
+   const API_key = "YOUR_API_KEY";
+   ```
+
+Get your free API key from OpenWeather.
+
