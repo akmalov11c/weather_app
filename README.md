@@ -21,24 +21,16 @@ A modern and stylish weather application that allows users to check the current 
 ## 📂 Project Structure  
 
 weather-app/
-│-- index.html # Main HTML file
-│-- style.css # Styling and layout
-│-- script.js # JavaScript logic
-│-- reset.css # Reset styling
-
-bash
-Copy
-Edit
+- index.html # Main HTML file
+- style.css # Styling and layout
+- script.js # JavaScript logic
+- reset.css # Reset styling
 
 ## ⚙️ Installation  
 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/weather-app.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd weather-app
-Open index.html in your preferred browser.
+2. Navigate to the project directory:
+   cd weather-app
+3. Open index.html in your preferred browser.
