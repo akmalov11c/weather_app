@@ -32,5 +32,6 @@ weather-app/
    ```bash
    git clone https://github.com/yourusername/weather-app.git
 2. Navigate to the project directory:
+   ```bash
    cd weather-app
-3. Open index.html in your preferred browser.
+4. Open index.html in your preferred browser.
