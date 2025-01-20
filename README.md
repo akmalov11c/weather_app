@@ -50,3 +50,16 @@ To fetch weather data, you'll need to replace "YOUR API KEY" in script.js with y
 
 Get your free API key from OpenWeather.
 
+## 📸 Screenshots
+
+### Home   
+![Home](screenshots/home.png)  
+
+### Request 
+![Request](screenshots/request.png)
+
+### Response 
+![Response](screenshots/response.png)
+
+### Full view  
+![Full view](screenshots/full-view.png)
